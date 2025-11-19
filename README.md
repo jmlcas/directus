@@ -1,8 +1,6 @@
-# directus
+# Directus
 
-Directus - Plataforma de base de datos - Docker-compose
-
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Email: admin@example.com
 
