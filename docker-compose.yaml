@@ -1,5 +1,3 @@
-version: '3.3'
-
 services:
 
   directus:
@@ -52,4 +50,5 @@ services:
 
 networks:
   directus:
+
 
